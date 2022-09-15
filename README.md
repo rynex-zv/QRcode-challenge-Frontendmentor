@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   ### What I learned
 
   -I can add a div to make a small spacing below element without effecting above elements.
-
+  -It's better to add main and footer tags  
 
   ### Continued development
 
